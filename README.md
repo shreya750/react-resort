@@ -1,12 +1,9 @@
-# Getting Started with Create React App
+# Beach-Resort
+description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live-Demo - https://react-resort-app-01.herokuapp.com/
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
+## Technologies Used
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
