@@ -1,7 +1,7 @@
 # Beach-Resort
 description
 
-## Live-Demo - https://react-resort-app-01.herokuapp.com/
+## Live-Demo - https://beach-resort-17.netlify.app
 
 ## Technologies Used
 
